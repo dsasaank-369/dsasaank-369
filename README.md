@@ -4,7 +4,7 @@
 
 - 📫 How to reach me **desusasaank369@gmail.com**
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1787323/screenshots/15753775/media/3fab08d110c0e365dbd77306d5273148.png">
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/870476/screenshots/11226950/media/9630cdb5a4e7a93677aba8db2043bae5.jpg">
 
 
 <h3 align="left">Connect with me:</h3>
