@@ -2,7 +2,7 @@
 <h2 align="center">Third year student at SASTRA University</h2> 
 <h3 align="center">A passionate web developer</h3>
 
-- 📫 How to reach me **desusasaank369@gmail.com**
+<!-- - 📫 How to reach me **desusasaank369@gmail.com** -->
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/870476/screenshots/11226950/media/9630cdb5a4e7a93677aba8db2043bae5.jpg">
 
