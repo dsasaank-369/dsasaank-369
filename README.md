@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="desusasaank369@gmail.com" target="blank"><img  src="https://img.shields.io/badge/Gmail-desusasaank369?style=for-the-badge&logo=gmail&logoColor=white" alt="desusasaank369@gmail.com" height="30"/></a>
+<a href="desusasaank369@gmail.com" target="blank"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="desusasaank369@gmail.com" height="30"/></a>
 <a href="https://linkedin.com/in/sasaank-desu" target="blank"><img  src="https://img.shields.io/badge/LinkedIn-sasaank-desu?style=for-the-badge&logo=linkedin&logoColor=white" alt="sasaank-desu" height="30"/></a>
 
 <h3 align="left">Languages and Tools:</h3>
