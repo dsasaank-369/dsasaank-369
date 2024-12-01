@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sasaank</h1>
-<h2 align="center">Software Analyst at Bounteous/h2> 
+<h2 align="center">Software Analyst at Bounteous</h2> 
 <h3 align="center">A passionate web developer</h3>
 
 <!-- - 📫 How to reach me **desusasaank369@gmail.com** -->
