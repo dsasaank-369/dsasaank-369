@@ -1,7 +1,6 @@
 ## Hi there, my name is Sasaank  <img src="https://github.com/dsasaank-369/dsasaank-369/blob/main/images/hi.gif" width="28px" height="28px" alt="waving hand" />
 I'm a software engineer who loves coding! 
 <br />
-<h2 align="center">Software Analyst at Bounteous</h2> 
 
 ```javascript
 const Sasaank = {
