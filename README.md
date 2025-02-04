@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sasaank</h1>
+## Hi there, my name is <Sasaank/> <img src="https://github.com/kaylakremer/kaylakremer/blob/master/images/hi.gif" width="28px" height="28px" alt="waving hand" />
+I'm a front-end & mobile (React/React Native) software engineer who loves creative coding! 👩🏼‍💻
+<br />
 <h2 align="center">Software Analyst at Bounteous</h2> 
 <h3 align="center">A passionate web developer</h3>
 
