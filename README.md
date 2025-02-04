@@ -1,8 +1,21 @@
-## Hi there, my name is <Sasaank/> <img src="https://github.com/kaylakremer/kaylakremer/blob/master/images/hi.gif" width="28px" height="28px" alt="waving hand" />
+## Hi there, my name is Sasaank <img src="https://github.com/kaylakremer/kaylakremer/blob/master/images/hi.gif" width="28px" height="28px" alt="waving hand" />
 I'm a front-end & mobile (React/React Native) software engineer who loves creative coding! 👩🏼‍💻
 <br />
 <h2 align="center">Software Analyst at Bounteous</h2> 
 <h3 align="center">A passionate web developer</h3>
+
+```javascript
+const Sasaank = {
+  pronouns: "He/Him",
+  jobTitle: "Software Analyst",
+  company: "Bounteous",
+  education: "SASTRA UNIVERSITY",
+  skills: {
+    frontend: ["HTML5", "CSS3", "Git", "JavaScript", "React", "Adobe Target"],
+    backend: ["Node.js"],
+  },
+  hobbies: ["watching anime", "traveling", "coding", "jigsaw puzzle"]
+};
 
 <!-- - 📫 How to reach me **desusasaank369@gmail.com** -->
 
