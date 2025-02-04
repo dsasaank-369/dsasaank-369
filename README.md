@@ -1,5 +1,5 @@
-## Hi there, my name is Sasaank <img src="https://github.com/kaylakremer/kaylakremer/blob/master/images/hi.gif" width="28px" height="28px" alt="waving hand" />
-I'm a front-end & mobile (React/React Native) software engineer who loves creative coding! 👩🏼‍💻
+## Hi there, my name is Sasaank  <img src="https://github.com/dsasaank-369/dsasaank-369/blob/main/images/hi.gif" width="28px" height="28px" alt="waving hand" />
+I'm a front-end & mobile (React/React Native) software engineer who loves creative coding! 
 <br />
 <h2 align="center">Software Analyst at Bounteous</h2> 
 <h3 align="center">A passionate web developer</h3>
@@ -16,7 +16,7 @@ const Sasaank = {
   },
   hobbies: ["watching anime", "traveling", "coding", "jigsaw puzzle"]
 };
-
+```
 <!-- - 📫 How to reach me **desusasaank369@gmail.com** -->
 
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/870476/screenshots/11226950/media/9630cdb5a4e7a93677aba8db2043bae5.jpg">
@@ -34,6 +34,12 @@ const Sasaank = {
 <br/>
 <br/>
 
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/KaylaKremer/count.svg" alt="visitor count" /></td>
+  </tr>
+</table>
 
 <img
   align="left"
